@@ -1,5 +1,5 @@
 ### Hi there 👋I'm Mostafa Shaher
-Junior Backend Software Engineer with a strong background in problem-solving, data structures, and
+Backend Software Engineer with a strong background in problem-solving, data structures, and
 databases.
 
 - 🌱 I’m currently learning Laravel
