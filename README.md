@@ -26,6 +26,11 @@ Welcome to my GitHub! I'm a **Backend Software Engineer** with a passion for sol
 <img src="https://github-readme-stats.vercel.app/api?username=NeVeDlE&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub Stats" />
 </div>
 
+## 👀 Profile Views
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NeVeDlE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
