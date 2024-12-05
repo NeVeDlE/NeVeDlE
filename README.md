@@ -23,8 +23,9 @@ Welcome to my GitHub! I'm a **Backend Software Engineer** with a passion for sol
 ## 📈 GitHub Stats
 
 <div align="center">
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeVeDlE&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=NeVeDlE&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub Stats" />
 </div>
+
 
 ---
 
