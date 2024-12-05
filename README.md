@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a **Backend Software Engineer** passionate about craft
 ---
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeVeDlE&show_icons=true&theme=radical)
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeVeDlE&show_icons=true&theme=tokyonight)
 
 ---
 
