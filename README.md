@@ -39,8 +39,9 @@ Welcome to my GitHub! I'm a **Backend Software Engineer** passionate about craft
    - [GitHub Repository](https://github.com/NeVeDlE/Roshta) | [Demo Video](#)
 
 ---
-<div align="center">
+
 ## 📈 Stats
+<div align="center">
 ![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeVeDlE&show_icons=true&theme=tokyonight)
 </div>
 ---
