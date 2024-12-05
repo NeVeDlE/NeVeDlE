@@ -1,56 +1,54 @@
 # Hi there 👋 I'm Mostafa Shaher!
 
-Welcome to my GitHub! I'm a **Backend Software Engineer** passionate about crafting efficient and scalable solutions. With a strong foundation in **problem-solving**, **data structures**, and **database design**, I thrive on building systems that perform seamlessly.
+Welcome to my GitHub! I'm a **Backend Software Engineer** with a passion for solving complex problems and building scalable backend systems. I specialize in **Laravel**, **RESTful APIs**, and database optimization, and I'm always eager to learn new technologies.
 
 ---
 
 ## 👨‍💻 About Me
 - 💼 **Current Role**: Software Engineer at **Wakeb** | Programming Instructor at **AlMentor**.
-- 🌱 **Currently Learning**: Laravel and enhancing my expertise in scalable backend services.
-- 🏆 **Volunteer**: Coaching and mentoring in **ICPC Minya University Community** to help students excel in **Data Structures** and **Algorithms**.
-- 🎓 **Education**: Bachelor’s in Computer Science, **Minia University**.
+- 🌱 **Currently Learning**: Advanced Laravel features and system scalability techniques.
+- 🏆 **Volunteer Work**: Mentoring students in **ICPC Minya University Community** on **Algorithms** and **Data Structures**.
+- 🎓 **Education**: Bachelor’s Degree in Computer Science from **Minia University**.
 
 ---
 
-## 🛠️ Skills
-- **Languages**: PHP, C++, JavaScript.
-- **Frameworks**: Laravel, Livewire.
-- **Tools**: RESTful APIs, MySQL, Payment Gateway Integration.
-- **Soft Skills**: Mentorship, Curriculum Development, Problem-Solving.
+## 🛠️ My Tech Stack
+- **Languages**: PHP, C++, JavaScript
+- **Frameworks**: Laravel, Livewire
+- **Databases**: MySQL, SQL
+- **Other Tools**: REST APIs, Payment Gateway Integration, System Optimization
 
 ---
 
-## 🚀 My Work
-### Professional Experience
-- **Wakeb**: Developed scalable backend services, implemented security measures, and optimized databases for high-traffic web applications.
-- **AlMentor**: Designed programming curriculums and conducted interactive live coding sessions.
-- **Mamoh Software LTD**: Built RESTful APIs, integrated third-party services, and maintained database performance for SaaS platforms.
+## 📈 GitHub Stats
 
-### Key Projects
-1. **Mamoh Delivery (2024)**  
-   A SaaS platform to enhance delivery operations for companies.
-   - Developed using **Laravel** and **MySQL**.
-   - Built RESTful APIs for deliveries, route optimization, and shipment tracking.
-   - [GitHub Repository](#) *(Include your project link if available)*
-
-2. **Roshta (Graduation Project, 2021–2022)**  
-   Digitized the medical process in Egypt by linking Patients, Doctors, and Pharmacists.
-   - Built with **Laravel (PHP)** and **Livewire**.
-   - [GitHub Repository](https://github.com/NeVeDlE/Roshta) | [Demo Video](#)
-
----
-
-## 📈 Stats
 <div align="center">
 ![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeVeDlE&show_icons=true&theme=tokyonight)
 </div>
----
-
-## 📫 Let's Connect!
-- **Email**: [shaherabdullah2000@gmail.com](mailto:shaherabdullah2000@gmail.com)
-- **GitHub**: [NeVeDlE](https://github.com/NeVeDlE)
-- **LinkedIn**: [Mostafa Shaher](https://www.linkedin.com/in/mostafa-shaher-4433a0223/)
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
+## 🌟 Featured Projects
+
+### 🚚 Mamoh Delivery (2024)
+A SaaS platform for delivery company operations.
+- Built using **Laravel** and **MySQL**.
+- Developed REST APIs for delivery tracking and route optimization.
+- **Technologies**: Laravel, MySQL, RESTful APIs
+- [Project Repository](#)
+
+### 💊 Roshta (Graduation Project, 2021–2022)
+Digitizing the medical process in Egypt, linking Patients, Doctors, and Pharmacists.
+- Built with **Laravel (PHP)** and **Livewire**.
+- [Project Repository](https://github.com/NeVeDlE/Roshta) | [Demo Video](#)
+
+---
+
+## 📫 How to Reach Me
+- 📧 **Email**: [shaherabdullah2000@gmail.com](mailto:shaherabdullah2000@gmail.com)
+- 💼 **LinkedIn**: [Mostafa Shaher](https://www.linkedin.com/in/mostafa-shaher-4433a0223/)
+- 🌐 **GitHub**: [NeVeDlE](https://github.com/NeVeDlE)
+
+---
+
+Thanks for visiting! Feel free to explore my repositories or connect with me for collaboration opportunities. 🚀
